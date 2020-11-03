@@ -30,6 +30,7 @@ This is the resume page I created through the following steps.
 ![My resume page](JiachiSun-Resume.gif)
 1. Go to your GitHub account and create a new repository in this format: `youraccountName.github.io`
 
+    - To create a new repository, click on the plus icon in the upper right corner and select New Repository.
     - The reason why we choose GitHub to host a resume is that GitHub is built base on the Git. Git is a distributed version control system. It is easier to update your resume on GitHub. Any new changes will also be quickly reflected on the GitHub page. The resume page will always be synchronized with your resume file.
 
 2. Upload the resume that has been written by clicking the Add File button. Also rename it to `index.md`
