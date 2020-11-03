@@ -2,9 +2,9 @@
 
 ## Purpose:
 
-a. Describe the practical steps of how to host and format a resume using Markdown, a Markdown editor, GitHub Pages and Jekyll.
+1. A step-by-step detailed introduction of how to host your own resume page on GitHub Pages.
 
-b. Relate the practical steps described above to the general principles of current Technical Writing, as explained in Andrew Etter's book _Modern Technical Writing_
+2. How do the steps you describe correspond to Andrew Etter's book _Modern Technical Writing_
 
 ## Content:
 - [Prerequisites](#prerequisites)
@@ -58,10 +58,10 @@ This is the resume page I created through the following steps.
 3. [Mike Dane's Jekyll tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
 # Authors and Acknowledgments: 
-- Aaron Lichtman
-- Dan Bader
-- Quoc Nguyen
+- Andrew Etter
+- Cayman theme
 - Connor Gehman
+- Quoc Nguyen
 - Sebastian 
 
 ## FAQs:
@@ -73,3 +73,8 @@ This is the resume page I created through the following steps.
 2. Why is my resume not showing up?
 
     - First of all, since this is your first time using GitHub Pages, it may take a few hours to a few minutes to create your site, so please be patient and wait until you are sure there is no problem. Secondly, please make sure there is nothing wrong with the file `_config.yml`, there is no debugger for Jekyll in GitHub, so if there is a problem with the file, it won't show up when you save it. But it will not show up when you are creating the page. Third, make sure that the GitHub Pages section of the setting page shows that your page has been successfully published. If not, check that you have selected main for Branch and root for file. lastly, make sure that your resume was uploaded successfully and named `index.md`. This is because during the website creation process, the content of `index.md` is read and displayed on the page. If the read fails, then your page will not be displayed successfully.
+    
+3. Should my repository also include a `README.md` like this one?
+    - Sure! You can also introduce a readme like this to let more people know and learn how to host their resumes on GitHub. I believe that in the process of writing the README file, it can also help you deepen your understanding of the entire process.
+ 
+    
