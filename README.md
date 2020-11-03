@@ -7,10 +7,10 @@
 2. How do the steps you describe correspond to Andrew Etter's book _Modern Technical Writing_
 
 ## Content:
-- [Prerequisites](#prerequisites)
-- [Instructions](#instructions)
-- [More Resources](#more-resources)
-- [Authors and Acknowledgments](#authors-and-acknowledgments)
+- [Prerequisites](#Prerequisites)
+- [Instructions](#Instructions)
+- [More Resources](#More-Resources)
+- [Authors and Acknowledgments](#Authors-and-Acknowledgments)
 - [FAQs](#faqs)
 
 
@@ -19,9 +19,9 @@
 1. GitHub account
     - You need to log in to create a repository on GitHub and create our web resume. You need an email address to create a GitHub account.
 2. Resume in Markdown format
-    - In the following introduction, it will be assumed that you already have a resume in Markdown format. If you do not have a resume in Markdown format, please complete this prerequisite first. If you have no experience in writing Markdown format files, I have given a link in [More Resources](#more-resources) to help you get started quickly.
+    - In the following introduction, it will be assumed that you already have a resume in Markdown format. If you do not have a resume in Markdown format, please complete this prerequisite first. If you have no experience in writing Markdown format files, I have given a link in [More Resources](#More-Resources) to help you get started quickly.
 3. Some basic knowledge of Jekyll would be better
-    - If you have no relevant experience, don't worry! This will not force you to pause like the previous prerequest. Creating a basic resume does not require much knowledge of Jekyll. In the future, you can slowly beautify your website by learning Jekyll knowledge and using them. I have given a link of Jekyll tutorial in [More Resources](#more-resources).
+    - If you have no relevant experience, don't worry! This will not force you to pause like the previous prerequest. Creating a basic resume does not require much knowledge of Jekyll. In the future, you can slowly beautify your website by learning Jekyll knowledge and using them. I have given a link of Jekyll tutorial in [More Resources](#More-Resources).
 
 
 ## Instructions:
