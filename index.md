@@ -1,8 +1,8 @@
-**Jiachi Sun**
+# **Jiachi Sun**
 
-Email: jiachi\_sun@163.com｜Mobile: +1 2048070856
+Email: 2474633483sjc@gmail.com｜Mobile: +1 2048070856
 
-**EDUCATION**
+### **EDUCATION**
 
 **University of Manitoba** Winnipeg, Canada
 
@@ -12,7 +12,7 @@ GPA: 3.46/4.5
 
 Award: International Undergraduate Student Scholarship, 07/2017
 
-**INTERNSHIP**
+### **INTERNSHIP**
 
 **Jilin Innovation and Entrepreneurship Incubation Industrial Park Co., Ltd.** Changchun, China
 
@@ -32,7 +32,7 @@ _Intern 07/2018-08/2018_
 
 - Participated in the design and development of the company&#39;s software database
 
-**EXTRACURRICULAR ACTIVITIES**
+### **EXTRACURRICULAR ACTIVITIES**
 
 **Indoor 7-a-side Soccer Match** Winnipeg, Canada
 
@@ -58,11 +58,6 @@ _Online Intern 11/2018-01/2019_
 
 - Taught students IELTS speaking online
 
-**Red River Exhibition** Winnipeg, Canada
-
-_Volunteer 09/2018_
-
-- Volunteered to direct the traffic on the spot
 
 **COMP 1012 Course** Winnipeg, Canada
 
@@ -88,8 +83,7 @@ _Tutor 05/2018-08/2018_
 
 - Tutored a student in definite integral, quadrature by definite integral, derivative, etc., and answered questions
 
-**OTHERS**
+### **OTHERS**
 
 - Computer Skills: MySQL, Java, C++, C, Python, Ruby, Processing, Word, Excel, PPT
 - Language Skills: Native in Chinese and Proficient in English
-- Interests and Hobbies: playing football and badminton, swimming, reading detective novels and articles about frontier technologies in computer science, watching Premier League and suspense TV Series
