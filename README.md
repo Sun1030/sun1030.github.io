@@ -4,7 +4,7 @@
 
 1. A step-by-step detailed introduction of how to host your own resume page on GitHub Pages.
 
-2. How do the steps you describe correspond to Andrew Etter's book _Modern Technical Writing_
+2. How do the steps correspond to Andrew Etter's book _Modern Technical Writing_
 
 ## Content:
 - [Prerequisites](#Prerequisites)
