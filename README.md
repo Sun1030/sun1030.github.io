@@ -21,7 +21,7 @@
 2. Resume in Markdown format
     - In the following introduction, it will be assumed that you already have a resume in Markdown format. If you do not have a resume in Markdown format, please complete this prerequisite first. If you have no experience in writing Markdown format files, I have given a link in [More Resources](#More-Resources) to help you get started quickly.
 3. Some basic knowledge of Jekyll would be better
-    - If you have no relevant experience, don't worry! This will not force you to pause like the previous prerequest. Creating a basic resume does not require much knowledge of Jekyll. In the future, you can slowly beautify your website by learning Jekyll knowledge and using them. I have given a link of Jekyll tutorial in [More Resources](#More-Resources).
+    - If you have no relevant experience, do not worry! This will not force you to pause like the previous prerequest. Creating a basic resume does not require much knowledge of Jekyll. In the future, you can slowly beautify your website by learning Jekyll knowledge and using them. I have given a link of Jekyll tutorial in [More Resources](#More-Resources).
 
 
 ## Instructions:
