@@ -54,7 +54,7 @@ This is the resume page I created through the following steps.
 # More Resources:
 
 1. [Markdown tutorial](https://www.markdowntutorial.com/)
-2. [Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+2. [Andrew Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 3. [Mike Dane's Jekyll tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
 # Authors and Acknowledgments: 
