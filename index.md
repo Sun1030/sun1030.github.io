@@ -8,8 +8,6 @@ Email: 2474633483sjc@gmail.com｜Mobile: +1 2048070856
 
 _Program: BSc in Computer Science 09/2016-04/2021_
 
-GPA: 3.46/4.5
-
 Award: International Undergraduate Student Scholarship, 07/2017
 
 ## **INTERNSHIP**
