@@ -62,7 +62,7 @@ This is the resume page I created through the following steps.
 - Cayman theme
 - Connor Gehman
 - Quoc Nguyen
-- Sebastian 
+- Sebastian Araneda
 
 ## FAQs:
 
