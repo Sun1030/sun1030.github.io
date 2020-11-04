@@ -31,7 +31,7 @@ This is the resume page I created through the following steps.
 1. Go to your GitHub account and create a new repository in this format: `youraccountName.github.io`
 
     - To create a new repository, click on the plus icon in the upper right corner and select New Repository.
-    - The reason why we choose GitHub to host a resume is that GitHub is built base on the Git. Git is a distributed version control system. It is easier to update your resume on GitHub. Any new changes will also be quickly reflected on the GitHub page. The resume page will always be synchronized with your resume file.
+    - The reason why we choose GitHub to host a resume is that GitHub is built base on the Git. Git is a distributed version control system. This is also the view mentioned by Etter in the book Modern Technical Writing: use the cersion control system. It is easier to update your resume on GitHub. Any new changes will also be quickly reflected on the GitHub page. The resume page will always be synchronized with your resume file.
 
 2. Upload the resume that has been written by clicking the Add File button. Also rename it to `index.md`
 
@@ -59,11 +59,13 @@ This is the resume page I created through the following steps.
 3. [Mike Dane's Jekyll tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
 # Authors and Acknowledgments: 
+
 - Andrew Etter
-- Cayman theme
-- Connor Gehman
-- Quoc Nguyen
-- Sebastian Araneda
+- Cayman theme ([GitHub Pages theme](https://github.com/Sun1030/sun1030.github.io/settings/pages/themes?select=cayman&source=main&source_dir=%2F))
+- Group members
+    - Connor Gehman
+    - Quoc Nguyen
+    - Sebastian Araneda
 
 ## FAQs:
 
@@ -73,7 +75,7 @@ This is the resume page I created through the following steps.
 
 2. Why is my resume not showing up?
 
-    - First of all, since this is your first time using GitHub Pages, it may take a few hours to a few minutes to create your site, so please be patient and wait until you are sure there is no problem. Secondly, please make sure there is nothing wrong with the file `_config.yml`, there is no debugger for Jekyll in GitHub, so if there is a problem with the file, it won't show up when you save it. So, your resume will not show up when you are creating the page. Third, make sure that the GitHub Pages section of the setting page shows that your page has been successfully published. If not, check that you have selected the main for Branch and root for the file. Lastly, make sure that your resume was uploaded successfully and named `index.md`. This is because during the website creation process, the content of `index.md` is read and displayed on the page. If the read fails, then your page will not be displayed successfully.
+    - Since this is your first time using GitHub Pages, it may take a few hours to a few minutes to create your site, so please be patient and wait until you are sure there is no problem. Also, please make sure there is nothing wrong with the file `_config.yml`, there is no debugger for Jekyll in GitHub, so if there is a problem with the file, it won't show up when you save it. So, your resume will not show up when you are creating the page. Also, make sure that the GitHub Pages section of the setting page shows that your page has been successfully published. If not, check that you have selected the main for Branch and root for the file. Lastly, make sure that your resume was uploaded successfully and named `index.md`. This is because during the website creation process, the content of `index.md` is read and displayed on the page. If the read fails, then your page will not be displayed successfully.
     
 3. Should my repository also include a `README.md` like this one?
     - Sure! You can also introduce a readme like this to let more people know and learn how to host their resumes on GitHub. I believe that in the process of writing the README file, it can also help you deepen your understanding of the entire process.
